@@ -57,7 +57,7 @@
     "@angular/router": "^13.2.1",
     "@angular/service-worker": "^13.2.1",
     "@zxing/browser": "^0.1.1",
-    "@zxing/library": "^0.19.1",
+    "@zxing/library": "^0.20.0",
     "rxjs": "^6.6.3",
     "tslib": "^2.3.1"
   },
